@@ -28,5 +28,5 @@ With 8 hours of adequate sleep, we are left with 16 waking hours.
 📱 📱 🎧 🎧 🛌 💤<br>
 <br>
 Thus 10 minutes is approx 1% of the day.<br>
->Forget your money. Guard your time.
+Forget your money. Guard your time.
 
