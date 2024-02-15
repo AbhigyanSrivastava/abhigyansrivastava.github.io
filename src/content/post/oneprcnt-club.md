@@ -4,7 +4,7 @@ description: "How about its membership?"
 publishDate: "01 November 2023"
 tags: ["time"]
 ---
-
+# 1% Club
 With 8 hours of adequate sleep, we are left with 16 waking hours.
 <br>
 (16*60) ÷ 10 minutes = 96 times
