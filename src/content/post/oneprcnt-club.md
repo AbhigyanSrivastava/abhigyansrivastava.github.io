@@ -1,7 +1,7 @@
 ---
 title: "The 1% Club"
 description: "How about its membership?"
-publishDate: "01 Nov 2023"
+publishDate: "01 November 2023"
 tags: ["time"]
 ---
 
