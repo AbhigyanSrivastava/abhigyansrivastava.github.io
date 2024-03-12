@@ -4,7 +4,7 @@ description: "Well, who isn’t gonna miss this gem. All i can say is thank you.
 publishDate: "08 March 2024"
 tags: ["Sensei"]
 ---
-![Akira Toriyama Sensei](src/assets/AkiraSensei.PNG)
+
 
 ---
 × DATE: FRI, MAR 08, 2024
