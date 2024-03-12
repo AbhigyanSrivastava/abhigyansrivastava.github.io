@@ -4,7 +4,7 @@ description: "How about its membership? Everyone is obsessed with premiumness no
 publishDate: "01 November 2023"
 tags: ["time"]
 ---
-With 8 hours of adequate sleep, we are left with 16 waking hours.
+With 8 hours of adequate sleep, we are left with 16 waking hours. kaisn Re
 <br>
 (16*60) ÷ 10 minutes = 96 times<br>
 Thus 10 minutes is approx 1% of the day.<br>
