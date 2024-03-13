@@ -4,7 +4,8 @@ description: "Well, who isn’t gonna miss this gem. All i can say is thank you.
 publishDate: "08 March 2024"
 tags: ["Sensei"]
 ---
-![Akira Sensei](./AkiraSensei.PNG)
+
+![the Godfather](@/assets/AkiraSensei.png)
 
 ---
 × DATE: FRI, MAR 08, 2024 <br> 
