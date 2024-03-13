@@ -8,6 +8,8 @@ tags: ["Sensei"]
 ![the Godfather](@/assets/AkiraSensei.png)
 
 ---
+
 × DATE: FRI, MAR 08, 2024 <br> 
 × BEHAVIOR: What else can anyone feel? <br>
+
 ---
