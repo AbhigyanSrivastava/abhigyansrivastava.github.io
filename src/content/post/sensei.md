@@ -4,11 +4,9 @@ description: "Well, who isn’t gonna miss this gem. All i can say is thank you.
 publishDate: "08 March 2024"
 tags: ["Sensei"]
 ---
-
+![Akira Sensei](./AkiraSensei.PNG)
 
 ---
-× DATE: FRI, MAR 08, 2024
-
-× BEHAVIOR: What else can anyone feel?
-
+× DATE: FRI, MAR 08, 2024 <br> 
+× BEHAVIOR: What else can anyone feel? <br>
 ---
