@@ -1,5 +1,4 @@
 ---
-import SocialList from "@/components/SocialList.astro";
 import PostPreview from "@/components/blog/PostPreview.astro";
 import PageLayout from "@/layouts/Base.astro";
 import { getAllPosts, sortMDByDate } from "@/utils";
@@ -16,10 +15,19 @@ const cactusTech: { desc: string; href: string; title: string }[] = [];
 		<h1 class="title mb-7">Namaste 🙏</h1>
 		<p class="mb-5">
 			I am Chandler when he said,"I am sure you are right. But why?". 
-      Though I am addressed as Abhigyan. 
+      <br>Though I am addressed as Abhigyan. 
       <br>This personal website is my mind rambling in kilobytes. Expect half-baked thoughts, doodles, full-fledged posts or anything in between.
       <br>Enjoy the scene or feel free to explore.🔍
-      ![train](https://drive.google.com/file/d/1I7pgJktDKLqYzCh-60iLbW0yXdJGZllB/view?usp=sharing)
+      <br>
+      <img
+      src="../assets/train.gif"
+      width="1600"
+      height="900"
+      decoding="async"
+      loading="lazy"
+      alt="A description of my image."
+      />
+      
 		</p>
 	</section>
 </PageLayout>
