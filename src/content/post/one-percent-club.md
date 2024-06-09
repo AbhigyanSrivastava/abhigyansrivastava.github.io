@@ -10,7 +10,6 @@ With 8 hours of adequate sleep, we are left with 16 waking hours.
 Thus 10 minutes is approx 1% of the day.<br>
 <br>
 <div style="text-align: center;">
-<h5>
 🥱 📱 📱 🧘 💪 🪥<br>
 🏃‍♂️ 🏃‍♂️ 🏃‍♂️ 🏃‍♂️ 🏃‍♂️ 🏃‍♂️<br>
 🚿🚿 ☕  📖 📖 📖<br>
@@ -28,7 +27,6 @@ Thus 10 minutes is approx 1% of the day.<br>
 🏋️‍♂️ 🏋️‍♂️ 🏋️‍♂️ 🚿 🚿 🍱<br>
 🍱 📺 📺 📺 📺 📺<br>
 📱 📱 🎧 🎧 🛌 💤<br>
-</h5>
 </div>
 <br>
 Forget the money. Guard your time.
