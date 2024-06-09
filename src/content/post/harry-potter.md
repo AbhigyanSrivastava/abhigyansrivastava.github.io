@@ -41,57 +41,58 @@ Else you will ask Why did the purebloods used a train instead of floo powder or 
 How were the death eaters punished? 
 Many such questions would bother you if you are not careful.
 
-<h4>Following questions might convince you. </h4>
+<h3>Following questions might convince you. </h3>
 Spoiler free.
+<br>
 <h4>Harry Potter and the Sorcerer's Stone (2001)
-Can cats read maps or is this one special?
-Why did Hagrid steal the motorbike?
-Harry could do magic all the time.
-They met at Madam Malkin's Robes for All Occasions.
-Buck Teeth
-What did Dumbledore really see in the mirror?
-How did Norbert escape?
-The Riddle of Seven Potions
-Voldemort kills Quirrell, not Harry.
+- Can cats read maps or is this one special?
+- Why did Hagrid steal the motorbike?
+= Harry could do magic all the time.
+- They met at Madam Malkin's Robes for All Occasions.
+- Buck Teeth
+- What did Dumbledore really see in the mirror?
+- How did Norbert escape?
+- The Riddle of Seven Potions
+<br>
 <h4>Harry Potter and the Chamber of Secrets (2002) </h4>
-Magic only knows where there is used magic and not who it is that is using magic. 
-Fred and George know how to pick Muggle locks.
-Who are Squibs?
-Have you ever been invited to a Deathday party?
-They stole from Prof. Snape.
-He sent Hermione a get well soon card.
-Professor Bins explained about the Chambers of Secrets.
-The fight between the basilisk and Harry is different.
-Harry puts the diary in his sock and had Lucius Malfoy throwed it so Dobby would catch it after he removed the diary. Thats how ‘Dobby is free.’.
+- Magic only knows where there is used magic and not who it is that is using magic. 
+- What more do Fred and George know about muggle world?
+- Who are Squibs?
+- Have you ever been invited to a Deathday party?
+- They stole from Prof. Snape.
+- He sent Hermione a get well soon card.
+- Professor Bins explained about the Chambers of Secrets.
+- The fight between the basilisk and Harry is different.
+- Thats not how ‘Dobby is free.’.
+  <br>
 <h4>Harry Potter and the Prisoner of Azkaban (2004) </h4>
-I am Neville Longbottom.
-I prefer broomsticks too.
-Cedric catched the snitch. 
-Backstory of lupin Sirius Peter and James
-Who scared Ron?
-Crookshanks recognizes Sirius.
-Moony, Wormtail, Padfoot and Prongs
-The events of Shrieking Shack is better in the book.
-Trelawney’s Prophesy
-Why is his Patronus a stag?
-My godfather has escaped from wizard prison.
+- I am Neville Longbottom.
+- I prefer broomsticks too.
+- Who scared Ron?
+- Crookshanks recognizes Sirius.
+- Moony, Wormtail, Padfoot and Prongs
+- The events of Shrieking Shack is better in the book.
+- Trelawney’s Prophesy
+- Why is his Patronus a stag?
+- My godfather has escaped from wizard prison.
+<br>
 <h4>Harry Potter and the Goblet of Fire (2005) </h4>
-Ton Tongue Toffee
-Quidditch World Cup
-Winky
-SPEW CLub
-Hogwarts Kitchen
-Yule Ball is different.
-The Missing Step
-He can see through the invisibility cloak.
-News article on Hagrid
-Thanks Dobby
-Third task was not so simple.
-How Barty Crouch Jnr escaped Askaban?
-Where did the winning of the Triwizard championship go?
-How Barty Crouch junior escaped Askaban?
-Hermione is cool.
-1000 Galleons
+- Ton Tongue Toffee
+- Quidditch World Cup
+- Winky
+- That's enough with the SPEW CLub.
+- Hogwarts Kitchen
+- Yule Ball is different.
+- The Missing Step
+- He can see through the invisibility cloak.
+- News article on Hagrid
+- Thanks Dobby
+- Third task was not so simple.
+- How Barty Crouch Jnr escaped Askaban?
+- Where did the winning of the Triwizard championship go?
+- Hermione is cool.
+- 1000 Galleons
+<br>
 <h4>Harry Potter and the Order of the Phoenix (2007) </h4>
 Four Howlers
 He was jealous.
