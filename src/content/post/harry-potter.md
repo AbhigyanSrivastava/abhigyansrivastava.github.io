@@ -1,5 +1,6 @@
 ---
 title: "Expiring Credits"
+description: "Well, who isn’t gonna miss this gem. All i can say is thank you. Thank You for being the you. The Godfather of Shonen Manga.                                    "
 publishDate: "26th March 2024"
 tags: ["HarryPotter"]
 ---
