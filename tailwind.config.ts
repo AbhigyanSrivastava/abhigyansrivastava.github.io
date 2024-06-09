@@ -117,7 +117,7 @@ export default {
 		plugin(function ({ addComponents }) {
 			addComponents({
 				".cactus-link": {
-					"@apply no-underline bg-[size:100%_6px] bg-bottom bg-repeat-x": {},
+					"@apply bg-[size:100%_6px] bg-bottom bg-repeat-x": {},
 					backgroundImage:
 						"linear-gradient(transparent,transparent 5px,hsl(var(--theme-text)) 5px,hsl(var(--theme-text)))",
 					"&:hover": {
@@ -126,7 +126,7 @@ export default {
 					},
 				},
 				".title": {
-					"@apply text-2xl font-semibold text-accent-2": {},
+					"@apply no-underline text-2xl font-semibold text-accent-2": {},
 				},
 			});
 		}),
