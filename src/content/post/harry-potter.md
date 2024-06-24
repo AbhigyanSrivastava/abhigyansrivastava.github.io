@@ -44,7 +44,7 @@ Many such questions would bother you if you are not careful.
 <h3>Following questions might convince you. </h3>
 Spoiler free.
 <br>
-<h4>Harry Potter and the Sorcerer's Stone (2001)
+##Harry Potter and the Sorcerer's Stone (2001)
 * Can cats read maps or is this one special?
 * Why did Hagrid steal the motorbike?
 * Harry could do magic all the time.
@@ -54,7 +54,7 @@ Spoiler free.
 * How did Norbert escape?
 * The Riddle of Seven Potions
 <br>
-<h4>Harry Potter and the Chamber of Secrets (2002) </h4>
+## Harry Potter and the Chamber of Secrets (2002)##
 * Magic only knows where there is used magic and not who it is that is using magic. 
 * What more do Fred and George know about muggle world?
 * Who are Squibs?
@@ -65,7 +65,7 @@ Spoiler free.
 * The fight between the basilisk and Harry is different.
 * Thats not how ‘Dobby is free.’.
   <br>
-<h4>Harry Potter and the Prisoner of Azkaban (2004) </h4>
+## Harry Potter and the Prisoner of Azkaban (2004)
 * I am Neville Longbottom.
 * I prefer broomsticks too.
 * Who scared Ron?
