@@ -61,7 +61,7 @@ export default {
 							fontWeight: "700",
 						},
 						code: {
-							border: "1px dotted #666",
+							border: "0px dotted #666",
 							borderRadius: "2px",
 						},
 						blockquote: {
