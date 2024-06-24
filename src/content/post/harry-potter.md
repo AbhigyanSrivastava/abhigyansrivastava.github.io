@@ -44,15 +44,15 @@ Many such questions would bother you if you are not careful.
 <h3>Following questions might convince you. </h3>
 Spoiler free.
 <br>
-##Harry Potter and the Sorcerer's Stone (2001)
-* Can cats read maps or is this one special?
-* Why did Hagrid steal the motorbike?
-* Harry could do magic all the time.
-* They met at Madam Malkin's Robes for All Occasions.
-* Buck Teeth
-* What did Dumbledore really see in the mirror?
-* How did Norbert escape?
-* The Riddle of Seven Potions
+<h Harry Potter and the Sorcerer's Stone (2001)</h>
+- Can cats read maps or is this one special?
+- Why did Hagrid steal the motorbike?
+- Harry could do magic all the time.
+- They met at Madam Malkin's Robes for All Occasions.
+- Buck Teeth
+- What did Dumbledore really see in the mirror?
+- How did Norbert escape?
+- The Riddle of Seven Potions
 <br>
 ## Harry Potter and the Chamber of Secrets (2002)##
 * Magic only knows where there is used magic and not who it is that is using magic. 
