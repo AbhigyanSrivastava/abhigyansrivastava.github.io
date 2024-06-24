@@ -44,11 +44,17 @@ Many such questions would bother you if you are not careful.
 <h3>Following questions might convince you. </h3>
 Spoiler free.
 <br>
+<ul>
+  <li>Can cats read maps or is this one special?</li>
+  <li>Why did Hagrid steal the motorbike?</li>
+  <li>Harry could do magic all the time.</li>
+  <li>They met at Madam Malkin's Robes for All Occasions.</li>
+</ul>
 <h Harry Potter and the Sorcerer's Stone (2001)</h>
- - Can cats read maps or is this one special?
- - Why did Hagrid steal the motorbike?
- - Harry could do magic all the time.
- - They met at Madam Malkin's Robes for All Occasions.
+ - 
+ - 
+ - 
+ - 
  - Buck Teeth
  - What did Dumbledore really see in the mirror?
  - How did Norbert escape?
