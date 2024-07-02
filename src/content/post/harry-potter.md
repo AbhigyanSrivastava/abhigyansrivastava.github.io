@@ -5,7 +5,7 @@ publishDate: "26 March 2024"
 tags: ["HarryPotter"]
 ---
 
- <span style="color: #ffff00">Sunday Morning.</span>
+ <span style="color: #FFD700">Sunday Morning.</span>
 Because I am not in my second lecture or it is a holiday. 
 This friend of mine, before taking off on his bicycle, recommended Harry Potter.
 “You will enjoy it like Narnia. Probably more.”, he said.
