@@ -1,8 +1,8 @@
 ---
 title: "Riddikulus"
-description: "Well, who isn’t gonna miss this gem. All i can say is thank you. Thank You for being the you. The Godfather of Shonen Manga.                                    "
+description: "Well, who isn’t gonna miss this gem. All i can say is thank you. Thank You for being the you. The Godfather of Shonen Manga.                                           "
 publishDate: "31 May 2020"
-tags: ["seriously?"]
+tags: ["seriously"]
 ---
 
 
