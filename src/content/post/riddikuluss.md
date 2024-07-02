@@ -1,6 +1,6 @@
 ---
 title: "Riddikulus"
-description: "Mentioning anything and everything which just exists. You may or may not find it funny. No refunds on this click. Also recommendations are welcome. Be decent though."
+description: "Mentioning anything and everything which just exists. You may or may not find it funny. No refunds on this click. Also recommendations are welcome."
 publishDate: "31 May 2020"
 tags: ["seriously"]
 ---
