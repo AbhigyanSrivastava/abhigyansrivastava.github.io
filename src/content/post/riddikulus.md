@@ -8,6 +8,5 @@ tags: ["seriously"]
 
 hmm.
 <br>
-<li> [Videogames' appeal to male fantasy] (https://youtu.be/G4cP7vR74fQ?si=V8LCVD7ATl0H8ywQ) </li>
-<li>[Let me solo her.] (https://youtu.be/0fckxZwX4Hs?si=aX31K4pGeOcAaF27) </li>
-<li>Hera Pheri Meme</li>
+<li></li><a href="https://youtu.be/G4cP7vR74fQ?si=V8LCVD7ATl0H8ywQ" target="_blank">Videogames' appeal to male fantasy</a></li>
+<li></li><a href="https://youtu.be/G4cP7vR74fQ?si=V8LCVD7ATl0H8ywQ" target="_blank">Let me solo her.</a></li>
