@@ -1,6 +1,6 @@
 ---
 title: "Consumption Log 2024"
-description: "This post is just keeping a track of my gluttony."
+description: "This post is just keeping a track of my gluttony.        "
 publishDate: "01 Jan 2024"
 updatedDate: "01 July 2024"
 tags: ["shows", "movies","audiobook","timeline"]
@@ -18,7 +18,7 @@ tags: ["shows", "movies","audiobook","timeline"]
 <li>7th February: District 9 📺</li>
 
 ## March 2024
-<li>8th March: Moneyball 📺 (represented with TV emoji)</li>
+<li>8th March: Moneyball 📺</li>
 <li>18th March: Harry Potter and the Prisoner of Azkaban 🎧</li>
 <li>21st March: Harry Potter and the Order of the Phoenix 🎧</li>
 <li>22nd March: Harry Potter and the Half-Blood Prince 🎧</li>
