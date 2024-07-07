@@ -3,7 +3,7 @@ title: "Consumption Log 2024"
 description: "This post is keeping a track of my gluttony."
 publishDate: "01 Jan 2024"
 updatedDate: "01 July 2024"
-tags: ["shows", "movies","audiobook"."timeline"]
+tags: ["shows", "movies","audiobook","timeline"]
 ---
 
 > Summary
