@@ -32,7 +32,7 @@ I remembered most of the story but the excitement was to see what the movies mis
 Ironically i was surprised every now and then with how much and why wasn’t this in the movies.
 Also this Harry is quite different  to what I'd seen in the movies. 
 I thoroughly enjoyed it.
-So much so, the whole series of approx 126hours was finished in a week at 1.15x. Thank you Stephen Fry.
+So much so, the whole series of approx 126 hours was finished in a week at 1.15x. Thank you Stephen Fry.
 Its not an extraordinary story but a different take on the same good vs evil.
 I enjoyed it more as i was reliving my childhood.
 If you like the films, you will love the books. 
@@ -44,19 +44,28 @@ Many such questions would bother you if you are not careful.
 <h3>Following questions might convince you. </h3>
 Spoiler free.
 <br>
+
+## Harry Potter and the Philospher's Stone
+
 <ul>
   <li>Can cats read maps or is this one special?</li>
   <li>Why did Hagrid steal the motorbike?</li>
   <li>Harry could do magic all the time.</li>
   <li>They met at Madam Malkin's Robes for All Occasions.</li>
 </ul>
-<h Harry Potter and the Sorcerer's Stone (2001)</h>
+
+## Harry Potter and the Sorcerer's Stone
+<ul>
 <li>Buck Teeth</li>
 <li>What did Dumbledore really see in the mirror?</li>
 <li>How did Norbert escape?</li>
 <li>The Riddle of Seven Potions</li>
+</ul>
 <br>
-## Harry Potter and the Chamber of Secrets (2002)##
+
+## Harry Potter and the Chamber of Secrets
+
+<ul>
 <li>Magic only knows where there is used magic and not who it is that is using magic. </li>
 <li>What more do Fred and George know about muggle world?</li>
 <li>Who are Squibs?</li>
@@ -66,8 +75,12 @@ Spoiler free.
 <li>Professor Bins explained about the Chambers of Secrets.</li>
 <li>The fight between the basilisk and Harry is different.</li>
 <li>Thats not how ‘Dobby is free.’.</li>
-  <br>
-## Harry Potter and the Prisoner of Azkaban (2004)
+  </ul>
+<br>
+  
+## Harry Potter and the Prisoner of Azkaban
+
+<ul>
 <li>I am Neville Longbottom.</li>
 <li>I prefer broomsticks too.</li>
 <li>Who scared Ron?</li>
@@ -77,8 +90,12 @@ Spoiler free.
 <li>Trelawney’s Prophesy</li>
 <li>Why is his Patronus a stag?</li>
 <li>My godfather has escaped from wizard prison.</li>
+  </ul>
 <br>
-<h4>Harry Potter and the Goblet of Fire (2005) </h4>
+
+## Harry Potter and the Goblet of Fire 
+
+<ul>
 <li>Ton Tongue Toffee</li>
 <li>Quidditch World Cup</li>
 <li>Winky</li>
@@ -94,8 +111,12 @@ Spoiler free.
 <li>Where did the winning of the Triwizard championship go?</li>
 <li>Hermione is cool.</li>
 <li>1000 Galleons</li>
+  </ul>
 <br>
-<h4>Harry Potter and the Order of the Phoenix (2007) </h4>
+
+## Harry Potter and the Order of the Phoenix 
+
+<ul>
 <li>Four Howlers</li>
 <li>He was jealous.</li>
 <li>A lot more happened in 12 Grimmauld Place.</li>
@@ -118,14 +139,22 @@ Spoiler free.
 <li>Weasley Is Our King</li>
 <li>Who really betrayed the secret organization named “Dumbledore’s Army” and this is why Hermione is such an awesome wizard.
 <li>Was there any hospital in the wizarding world?</li>
-<h4>Harry Potter and the Half*Blood Prince (2009) </h4>
+</ul>
+
+## Harry Potter and the Half-Blood Prince 
+
+<ul>
 <li>More of Half Blood prince</li>
 <li>Mugglr Prime Minister knows the exitence of Wizarding world.</li>
 <li>Sirius’s Will.</li>
 <li>The Wedding arrangements</li>
 <li>Results</li>
 <li>The Lineage of Voldemort</li>
-<h4>Harry Potter and the Deathly Hallows </h4>
+</ul>
+
+## Harry Potter and the Deathly Hallows 
+
+<ul>
 <li>the cup of tea</li>
 <li>Bikes are awesome even in the wizarding world.</li>
 <li>What did the wand do?</li>
@@ -146,7 +175,11 @@ Spoiler free.
 <li>the love protection again.</li>
 <li>It lies there waiting for the next one.</li>
 <li>the herbology professor</li>
-Overall
+</ul>
+
+## Overall
+
+<ul>
 <li>Ginny has a personality. She is an awesome Qwiditch player too.</li>
 <li>Poor Winky</li>
 <li>And electronic devices don't work there.</li>
@@ -155,3 +188,4 @@ Overall
 <li>You feel slightly worse for Filch</li>
 <li>Dumbledore’s death seemed even SADDER</li>
 <li>Give her hell from us,Peeves.” And the Swamp.</li>
+</ul>
