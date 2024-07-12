@@ -5,7 +5,7 @@ publishDate: "26 March 2024"
 tags: ["HarryPotter"]
 ---
 
- <span style="color: #FFD700">Sunday Morning.</span>
+<span style="color: #DAA520">Sunday Morning.</span>
 Because I am not in my second lecture or it is a holiday. 
 This friend of mine, before taking off on his bicycle, recommended Harry Potter.
 “You will enjoy it like Narnia. Probably more.”, he said.
@@ -16,7 +16,7 @@ Still do.
 <br> My father had introduced us to cinema from an early age. Whatever his aim was I am pretty sure he succeeded. 
 <br>This was the time when I was watching Bollywood movies and had the least interaction with movies in language other than Hindi.
 Though I had seen Narnia and the Mummy trilogy. Both were successful in captivating me so I wrote down “Harry Potter Series” on a piece of paper and requested my father to get it for us. He obliged.
-I don't remember the time of year this happened but I can say it was 2009 or later. 
+I don't remember the year this happened but I can say it was 2009 or later. 
 Because the DVD my father brought from the ‘shop’ had up until the Half Blood Prince. 
 Those 4gb DVDs could hold 6 movies in mpeg format, came wrapped in an A4 sheet featuring movie posters.
 <br>Me and my two siblings watched it on repeat for days.
@@ -32,17 +32,17 @@ I remembered most of the story but the excitement was to see what the movies mis
 Ironically i was surprised every now and then with how much and why wasn’t this in the movies.
 Also this Harry is quite different  to what I'd seen in the movies. 
 I thoroughly enjoyed it.
-So much so, the whole series of approx 126 hours was finished in a week at 1.15x. Thank you Stephen Fry.
+So much so, the whole series of approx 126 hours was finished in a three weeks at 1.15x. Thank you Stephen Fry.
 Its not an extraordinary story but a different take on the same good vs evil.
 I enjoyed it more as i was reliving my childhood.
+<br>
 If you like the films, you will love the books. 
 This review holds true if you enter the books keeping your critic brain silent. 
 Else you will ask Why did the purebloods used a train instead of floo powder or apparition?, is this the whole combat system?, and what about the difference between the capabilities of the magic users?,
 How were the death eaters punished? 
 Many such questions would bother you if you are not careful.
 
-<h3>Following questions might convince you. </h3>
-Spoiler free.
+<h3>What do you miss otherwise? </h3>
 <br>
 
 ## Harry Potter and the Philospher's Stone
@@ -61,7 +61,6 @@ Spoiler free.
 <li>How did Norbert escape?</li>
 <li>The Riddle of Seven Potions</li>
 </ul>
-<br>
 
 ## Harry Potter and the Chamber of Secrets
 
@@ -76,7 +75,6 @@ Spoiler free.
 <li>The fight between the basilisk and Harry is different.</li>
 <li>Thats not how ‘Dobby is free.’.</li>
   </ul>
-<br>
   
 ## Harry Potter and the Prisoner of Azkaban
 
@@ -91,7 +89,6 @@ Spoiler free.
 <li>Why is his Patronus a stag?</li>
 <li>My godfather has escaped from wizard prison.</li>
   </ul>
-<br>
 
 ## Harry Potter and the Goblet of Fire 
 
@@ -112,7 +109,6 @@ Spoiler free.
 <li>Hermione is cool.</li>
 <li>1000 Galleons</li>
   </ul>
-<br>
 
 ## Harry Potter and the Order of the Phoenix 
 
@@ -177,15 +173,19 @@ Spoiler free.
 <li>the herbology professor</li>
 </ul>
 
-## Overall
+## And...
 
 <ul>
 <li>Ginny has a personality. She is an awesome Qwiditch player too.</li>
 <li>Poor Winky</li>
-<li>And electronic devices don't work there.</li>
+<li>Electronic devices don't work there.</li>
 <li>The Sorting Hat sings a new song every year before the Sorting Ceremony.</li>
 <li>A whole lot of quidditch</li>
-<li>You feel slightly worse for Filch</li>
-<li>Dumbledore’s death seemed even SADDER</li>
+<li>You feel slightly worse for Filch.</li>
+<li>Dumbledore’s death seemed even SADDER.</li>
 <li>Give her hell from us,Peeves.” And the Swamp.</li>
 </ul>
+<br>
+I plan to go through the Narnia series next. Your suggestions are welcome.
+<br>
+Update: 25th April, 2024 : Audible announces new audiobooks for Harry Potter series in the voice of full cast members.
