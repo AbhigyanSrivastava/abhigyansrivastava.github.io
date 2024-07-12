@@ -1,7 +1,7 @@
 ---
 title: "Default Apps 2024"
 description: "Most has been a long time defaults. Putting them in a list shows how many apps we need even for basic tasks."
-publishDate: "09th April, 2024"
+publishDate: "09th April 2024"
 tags: ["apps"]
 ---
 
