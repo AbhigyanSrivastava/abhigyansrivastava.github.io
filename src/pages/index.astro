@@ -2,6 +2,7 @@
 import PostPreview from "@/components/blog/PostPreview.astro";
 import PageLayout from "@/layouts/Base.astro";
 import { getAllPosts, sortMDByDate } from "@/utils";
+import rocket from '../assets/train.gif';
 
 const MAX_POSTS = 10;
 const allPosts = await getAllPosts();
@@ -19,7 +20,9 @@ const cactusTech: { desc: string; href: string; title: string }[] = [];
       <br>This personal website is my mind rambling in kilobytes. Expect half-baked thoughts, doodles, full-fledged posts or anything in between.
       <br>Enjoy the scene or feel free to explore.🔍
       <br>
-      ![the Godfather](./train.jpg)
+      ![the Godfather](./train.gif)
+      <br>
+      <img src={rocket.src} width={rocket.width} height={rocket.height} alt="A rocketship in space." />
       
 		</p>
 	</section>
