@@ -5,7 +5,7 @@ publishDate: "13 August 2023"
 tags: ["howIdoIt", "kindle", "highlights", "markdown"]
 ---
 
-#  Kindle is lob, kindle is not
+## Kindle is lob, kindle is not
 
 Like you, I too read on kindle. Unlike many and like few, I too highlight a lot. A lot. 
 I write and collect my findings in Obsidian. 
@@ -15,7 +15,7 @@ But moving them there is not a smooth experience.
 Also I haven’t yet found an app that share highlights in Hindi without messing up the characters.
 So I figured out a way to have it all. 
 
-## Here is it.
+## Here it is.
 
 1. When you are finished highlighting, go to annotations(represented by a ring binded notebook) and then use the share button.
 2. Share it as email.
