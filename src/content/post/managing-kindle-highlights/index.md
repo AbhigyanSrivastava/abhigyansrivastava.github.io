@@ -5,7 +5,7 @@ publishDate: "13 August 2023"
 tags: ["howIdoIt", "kindle", "highlights", "markdown"]
 ---
 
-# Kindle is lob, kindle is not
+#  Kindle is lob, kindle is not
 
 Like you, I too read on kindle. Unlike many and like few, I too highlight a lot. A lot. 
 I write and collect my findings in Obsidian. 
@@ -24,7 +24,8 @@ So I figured out a way to have it all.
 5. Save it and upload or darg and drop it on [this website](https://kindle-formatter.com ) made by this [beautiful person](https://ptrchm.com).
 7. Now you can move the markdown file of the highlights in Obsidian.
 8. You have two presets available and can be customise if you are into it.
-[kindle formatter](./IMG_2805.jpg)
+   
+![kindle formatter](./IMG_2805.jpg)
 
 <br>
 This works for now. My current setup involve reading on kindle and ipad.
