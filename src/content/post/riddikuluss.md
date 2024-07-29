@@ -6,7 +6,7 @@ tags: ["seriously"]
 ---
 
 
-hmm.
+No refunds on click.
 <br>
 <a href="https://youtu.be/G4cP7vR74fQ?si=V8LCVD7ATl0H8ywQ" target="_blank">Videogames' appeal to male fantasy</a>
 <br>
