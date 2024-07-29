@@ -8,7 +8,8 @@ tags: ["seriously"]
 
 No refunds on click.
 <br>
-<a href="https://youtu.be/G4cP7vR74fQ?si=V8LCVD7ATl0H8ywQ" target="_blank">Videogames' appeal to male fantasy</a>
+<br>
+<p style="text-align: center;"><a href="https://youtu.be/G4cP7vR74fQ?si=V8LCVD7ATl0H8ywQ" target="_blank">Videogames' appeal to male fantasy</a></p>
 <br>
 <a href="https://youtu.be/0fckxZwX4Hs" target="_blank">Let me solo her.</a>
 <br>
