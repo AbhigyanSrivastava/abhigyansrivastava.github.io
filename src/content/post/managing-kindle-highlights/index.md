@@ -4,7 +4,7 @@ description: "Just my way of handling the exporting of kindle highlights with mi
 publishDate: "13 August 2023"
 tags: ["howIdoIt", "kindle", "highlights", "markdown"]
 ---
-
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
 ## Kindle is lob, kindle is not
 
 Like you, I too read on kindle. Unlike many and like few, I too highlight a lot. A lot. 
