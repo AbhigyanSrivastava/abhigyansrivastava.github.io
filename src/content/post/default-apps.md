@@ -4,7 +4,7 @@ description: "Most has been a long time defaults. Putting them in a list shows h
 publishDate: "09 April 2024"
 tags: ["apps"]
 ---
-
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
 I saw a few people I follow sharing their set of default apps. Here is mine for 2024. <br>
 Interestingly, I also want to see when I change my defaults. <br>
 
