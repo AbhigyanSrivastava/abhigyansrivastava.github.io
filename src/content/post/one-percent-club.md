@@ -4,6 +4,7 @@ description: "How about its membership? Everyone is obsessed with premiumness no
 publishDate: "01 November 2023"
 tags: ["time"]
 ---
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
 With 8 hours of adequate sleep, we are left with 16 waking hours.
 <br>
 (16*60) ÷ 10 minutes = 96 times<br>
