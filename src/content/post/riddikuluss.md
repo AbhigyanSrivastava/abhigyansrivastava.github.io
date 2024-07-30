@@ -4,7 +4,7 @@ description: "Mentioning anything and everything which just exists. You may or m
 publishDate: "31 May 2020"
 tags: ["seriously"]
 ---
-
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
 
 No refunds on click.
 <br>
