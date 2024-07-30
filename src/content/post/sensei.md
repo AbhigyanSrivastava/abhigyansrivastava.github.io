@@ -4,6 +4,7 @@ description: "Well, who isn’t gonna miss this gem. All i can say is thank you.
 publishDate: "08 March 2024"
 tags: ["Sensei"]
 ---
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
 Work hard, study well and eat and sleep plenty.
 <br>That's the Turtle Hermit way.
 <br>
