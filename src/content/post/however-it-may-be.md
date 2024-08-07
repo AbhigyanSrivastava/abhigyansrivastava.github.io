@@ -2,12 +2,10 @@
 title: "However it may be."
 description: "filtering and deleting is not the only way to save storage."
 publishDate: "29 Jan 2022"
-tags: ["tl;dr"]
+tags: ["tl;dr", "doodle"]
 ---
-<figure>
-  <img src="@/assets/onepic.jpg" alt="I like to doodle." />
-  <figcaption align="center">I like to doodle.</figcaption>
-</figure>
+
+  ![A starry night sky.](@/assets/onepic.jpg) "I like to doodle."
 
 Advocating for:  taking single pic in personal gatherings.
 Defending:  
