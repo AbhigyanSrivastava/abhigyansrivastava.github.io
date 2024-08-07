@@ -7,9 +7,10 @@ tags: ["tl;dr"]
 
 ![the Godfather](@/assets/onepic.jpg)
 
-Let me defend my words. 
-You notice everyone invited is there in the room.
-It’s a canon event.
+Advocating for:  taking single pic in personal gatherings.
+Defending:  
+
+It’s a canon event when everyone invited is in the room.
 Casually, take out your phone and click a photo/selfie. 
 Instead of capturing an orchestrated photo, shoot one in which everyone is in their element. 
 Let them be and capture that instant. 
@@ -18,6 +19,6 @@ You are relieved of the pressure of keeping decent face expression during group 
 Suddenly the pic start looking lively with that many stories.
 The best one, you get to torch the one having weirdest moment.
 Not saying no to a decent organised pic, unfiltered are the best.
-But this will be a better momento.
+A better momento.
 
 
