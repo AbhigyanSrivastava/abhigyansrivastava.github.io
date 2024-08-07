@@ -4,15 +4,13 @@ description: "filtering and deleting is not the only way to save storage."
 publishDate: "29 Jan 2022"
 tags: ["tl;dr"]
 ---
-
-![the Godfather](@/assets/onepic.jpg)
 <figure>
-  <figcaption align="center">I like to doodle. </figcaption>
+  <img src="/assets/onepic.jpg" alt="I like to doodle." />
+  <figcaption align="center">I like to doodle.</figcaption>
 </figure>
 
 Advocating for:  taking single pic in personal gatherings.
 Defending:  
-<Image src={onepic.jpg} alt="A rocketship in space." />
 It’s a canon event when everyone invited is in the room.
 Casually, take out your phone and click a photo/selfie. 
 Instead of capturing an orchestrated photo, shoot one in which everyone is in their element. 
