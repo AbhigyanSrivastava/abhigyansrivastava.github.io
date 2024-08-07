@@ -9,7 +9,7 @@ tags: ["tl;dr"]
 
 Advocating for:  taking single pic in personal gatherings.
 Defending:  
-
+<Image src={onepic} alt="A rocketship in space." />
 It’s a canon event when everyone invited is in the room.
 Casually, take out your phone and click a photo/selfie. 
 Instead of capturing an orchestrated photo, shoot one in which everyone is in their element. 
