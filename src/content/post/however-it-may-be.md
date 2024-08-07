@@ -6,10 +6,7 @@ tags: ["tl;dr"]
 ---
 
 ![the Godfather](@/assets/onepic.jpg)
-
-a
 <figure>
-  ![doodly](@/assets/onepic.jpg)
   <figcaption align="center">I like to doodle. </figcaption>
 </figure>
 
