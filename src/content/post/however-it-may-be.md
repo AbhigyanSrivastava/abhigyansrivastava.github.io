@@ -5,7 +5,7 @@ publishDate: "29 Jan 2022"
 tags: ["tl;dr"]
 ---
 <figure>
-  <img src="/assets/onepic.jpg" alt="I like to doodle." />
+  <img src="@/assets/onepic.jpg" alt="I like to doodle." />
   <figcaption align="center">I like to doodle.</figcaption>
 </figure>
 
