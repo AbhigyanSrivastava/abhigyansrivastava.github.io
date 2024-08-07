@@ -5,11 +5,11 @@ publishDate: "29 Jan 2022"
 tags: ["tl;dr", "doodle"]
 ---
 
-  ![A starry night sky.](@/assets/onepic.jpg)
-
-Advocating for: Taking single pic in personal gatherings.
+![A starry night sky.](@/assets/onepic.jpg)
+  
+`Advocating for:` Taking single pic in personal gatherings.
 <br>
-Arguments : 
+`Arguments:`
 <br>
 It’s a canon event when everyone invited is in the room.
 Casually, take out your phone and click a photo/selfie. 
@@ -22,7 +22,6 @@ And the pic looks lively with that many stories.
 The best part, you get to torch the one having weirdest moment.
 <br>
 Not saying no to a decent organised pic, unfiltered are the best.
-
 > A better momento.
 
 
