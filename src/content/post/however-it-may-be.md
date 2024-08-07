@@ -5,7 +5,7 @@ publishDate: "29 Jan 2022"
 tags: ["tl;dr", "doodle"]
 ---
 
-  ![A starry night sky.](@/assets/onepic.jpg) "I like to doodle."
+  ![A starry night sky.](@/assets/onepic.jpg)
 
 Advocating for:  taking single pic in personal gatherings.
 Defending:  
