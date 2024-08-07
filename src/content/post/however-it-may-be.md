@@ -7,6 +7,12 @@ tags: ["tl;dr"]
 
 ![the Godfather](@/assets/onepic.jpg)
 
+a
+<figure>
+  ![doodly](@/assets/onepic.jpg)
+  <figcaption align="center">I like to doodle. </figcaption>
+</figure>
+
 Advocating for:  taking single pic in personal gatherings.
 Defending:  
 <Image src={onepic.jpg} alt="A rocketship in space." />
