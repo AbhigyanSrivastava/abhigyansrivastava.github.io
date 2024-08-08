@@ -6,8 +6,8 @@ tags: ["tl;dr", "doodle"]
 ---
 
 
-&starf;
+
 <span style="color: gold;">★★★★☆</span>
 
+<span style="color: gold; font-size: 14px;">★★★★☆</span>
 
-:star: :star: :star: :star: :star:
