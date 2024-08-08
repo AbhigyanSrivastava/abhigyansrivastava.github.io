@@ -7,9 +7,9 @@ tags: ["tl;dr", "doodle"]
 
 ![A starry night sky.](@/assets/onepic.jpg)
   
-`Advocating for:` Taking single pic in personal gatherings.
+Advocating for: Taking single pic in personal gatherings.
 <br>
-`Arguments:`
+Arguments:
 <br>
 It’s a canon event when everyone invited is in the room.
 Casually, take out your phone and click a photo/selfie. 
