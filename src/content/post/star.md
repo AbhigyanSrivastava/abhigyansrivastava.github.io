@@ -9,5 +9,42 @@ tags: ["tl;dr", "doodle"]
 
 
 
-<span style="color: black; font-size: 17px;">★★★★☆</span>
+<span style="color: black; font-size: 17px;">★★★★☆</span> &nbsp; <a href="#1" style="font-size: 17px;">Review</a> &nbsp; 
+<span style="font-size: 17px;">2023/09/17 &nbsp; The Prophet</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="1"></a>
+<h2>The Prophet</h2>
+<p>The one which explains everything big in life.</p>
+
+
 
