@@ -1,8 +1,7 @@
 ---
 title: "My Book Review"
-description: "filtering and deleting is not the only way to save storage."
-publishDate: "29 Jan 2022"
-tags: ["tl;dr", "doodle"]
+description: "What and how these have influenced my puny mind. These can be books and audiobooks as well."
+tags: ["ratings", "books"]
 ---
 
 
@@ -15,11 +14,6 @@ tags: ["tl;dr", "doodle"]
 
 
 
-
-<span style="color: black; font-size: 17px; line-height: 1;">★★★★☆</span> &nbsp; 
-<span style="font-size: 17px; line-height: 1;">
-  <a href="#1">Review</a> &nbsp; 2023/09/17 &nbsp; The Prophet
-</span>
 
 
 
@@ -50,7 +44,7 @@ tags: ["tl;dr", "doodle"]
 
 <a id="1"></a>
 <h2>The Prophet</h2>
-<p>The one which explains everything big in life.</p>
+<p>The one which explains everything valueable in life.</p>
 
 
 
