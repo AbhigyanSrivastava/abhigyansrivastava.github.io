@@ -9,7 +9,7 @@ tags: ["ratings", "books"]
 
 
 
-<span style="color: black; font-size: 17px;">★★★★</span> &nbsp; <span style="font-size: 10px;">
+<span style="font-size: 17px;">★★★★</span> &nbsp; <span style="font-size: 10px;">
   <a href="#1">review</a> &nbsp; 2023.09.17 &nbsp; The Prophet </span>
 
 
