@@ -9,10 +9,10 @@ tags: ["tl;dr", "doodle"]
 
 
 
-<span style="color: black; font-size: 17px;">★★★★☆</span> &nbsp; <span style="font-size: 17px;">
+<span style="color: black; font-size: 17px;">★★★★☆</span> &nbsp; <span style="font-size: 14px;">
   <a href="#1">Review</a> &nbsp; 2023/09/17 &nbsp; The Prophet </span>
 
-<span style="font-size: 17px;">2023/09/17 &nbsp; The Prophet</span>
+
 
 
 
