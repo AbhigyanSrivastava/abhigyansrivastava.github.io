@@ -8,7 +8,7 @@ tags: ["ratings", "games"]
 <span style="font-size: 17px;">★★★★★</span> &nbsp; <span style="font-size: 12px;">
   <a href="#1">review</a> &nbsp; 2020.09.17 &nbsp; The Witcher 3 : Wild Hunt 🖥️</span>
   <br>
-<span style="font-size: 17px;">★★★★ </span> &nbsp; <span style="font-size: 12px;">
+<span style="font-size: 17px;">★★★★  </span> &nbsp; <span style="font-size: 12px;">
   <a href="#2">review</a> &nbsp; 2020.09.17 &nbsp; Gris 📱</span>
 
 
