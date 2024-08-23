@@ -33,7 +33,7 @@ tags: ["momenthaibhaimoment"]
 </figure>
 
 <figure style="text-align: center;">
-  <img src="src/content/post/sit-here-longer/nainital.jpg" alt="lake">
+  <img src="/src/content/post/sit-here-longer/nainital.jpg" alt="lake">
   <figcaption>Nainital</figcaption>
 </figure>
 
