@@ -12,11 +12,28 @@ tags: ["momenthaibhaimoment"]
   </blockquote>
 </div>
 
-<figure style="display: flex; justify-content: center;">
-  <img src="/assets/AkiraSensei.png" alt="the Godfather">
+<figure style="text-align: center;">
+  <img src="rain.jpg" alt="rain">
+  <figcaption>Rain</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="./IMG_2805.jpg" alt="kindle formatter">
-  <figcaption>Kindle Formatter</figcaption>
+  <img src="" alt="home.jpg">
+  <figcaption>All Blue.</figcaption>
 </figure>
+
+<figure style="text-align: center;">
+  <img src="junglefort.jpg" alt="fort">
+  <figcaption>Village Cot</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="manali.jpg" alt="fall">
+  <figcaption>Waterfall</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="./nainital.jpg" alt="lake">
+  <figcaption>Nainital</figcaption>
+</figure>
+
