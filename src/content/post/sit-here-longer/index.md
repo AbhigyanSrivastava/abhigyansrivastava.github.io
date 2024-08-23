@@ -13,7 +13,11 @@ tags: ["momenthaibhaimoment"]
 </div>
 
  ![All Blue.](./home.jpg) 
+ <br>
  ![rain](./rain.jpg) 
+ <br>
  ![resting on cot](./villagefort.jpg) 
- ![On the Edge](./manali.jpg) 
+ <br>
+ ![On the Edge](./manali.jpg)
+ <br>
  ![GreenBelow](./nainital.jpg)
