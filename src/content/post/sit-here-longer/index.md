@@ -16,7 +16,7 @@ tags: ["momenthaibhaimoment"]
  <br>
  ![rain](./rain.jpg) 
  <br>
- ![resting on cot](./villagefort.jpg) 
+ ![resting on cot](./junglefort.jpg) 
  <br>
  ![On the Edge](./manali.jpg)
  <br>
