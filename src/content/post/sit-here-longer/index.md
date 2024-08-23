@@ -15,3 +15,8 @@ tags: ["momenthaibhaimoment"]
 <figure style="display: flex; justify-content: center;">
   <img src="/assets/AkiraSensei.png" alt="the Godfather">
 </figure>
+
+<figure style="text-align: center;">
+  <img src="./IMG_2805.jpg" alt="kindle formatter">
+  <figcaption>Kindle Formatter</figcaption>
+</figure>
