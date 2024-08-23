@@ -19,6 +19,7 @@ const {
 const socialImage = ogImage ?? `/og-image/${slug}.png`;
 const articleDate = updatedDate?.toISOString() ?? publishDate.toISOString();
 const { headings } = await post.render();
+const filteredPosts = posts.filter(post => !post.data.excludeFromBlog);
 ---
 
 <BaseLayout meta={{ articleDate, description, ogImage: socialImage, title }}>
