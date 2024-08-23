@@ -8,4 +8,5 @@ tags: ["nuggets", "ramblings"]
 <h3> In no particual order or atticate;</h3>
 - Humans are representing the universe itself. Ever expanding in infinity.
 <a href="https://aisahihu.me/posts/i-have-read-these.md/">Go to Subpage</a>
-<a href="https://www.aisahihu.me/posts/i-have-read-these.md/">Visit W3Schools.com!</a>
+<br>
+<a href="https://aisahihu.me/posts/i-have-read-these.md/">Visit W3Schools.com!</a>
