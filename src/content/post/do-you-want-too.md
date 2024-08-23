@@ -13,5 +13,5 @@ tags: ["momenthaibhaimoment"]
 </div>
 
 <figure style="display: flex; justify-content: center;">
-  <img src="@/assets/AkiraSensei.png" alt="the Godfather">
+  <img src="/assets/AkiraSensei.png" alt="the Godfather">
 </figure>
