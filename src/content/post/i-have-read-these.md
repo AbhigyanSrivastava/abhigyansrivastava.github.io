@@ -2,7 +2,6 @@
 title: "I Have Read These."
 description: "What and how these have influenced my puny mind. These can be books and audiobooks as well."
 publishDate: "01 May 2024"
-exclude: true
 tags: ["ratings", "books"]
 ---
 
