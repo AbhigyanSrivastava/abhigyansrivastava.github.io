@@ -4,8 +4,8 @@ description: "filtering and deleting is not the only way to save storage."
 publishDate: "29 Jan 2022"
 tags: ["tl;dr", "doodle"]
 ---
-
-![A starry night sky.](@/assets/onepic.jpg)
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
+![idoodle](@/assets/onepic.jpg)
   
 Advocating for: Taking single pic in personal gatherings.
 <br>
