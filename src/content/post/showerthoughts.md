@@ -9,3 +9,4 @@ tags: ["nuggets", "ramblings"]
 - Humans are representing the universe itself. Ever expanding in infinity.
 <a href="https://aisahihu.me/posts/i-have-read-these.md/">Go to Subpage</a>
 
+[the related post](./i-have-read-these.md)
