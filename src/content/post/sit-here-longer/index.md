@@ -13,7 +13,7 @@ tags: ["momenthaibhaimoment"]
 </div>
 
 <figure style="text-align: center;">
-  <img src="rain.jpg" alt="rain">
+  ![kindle formatter](./IMG_2805.jpg)
   <figcaption>Rain</figcaption>
 </figure>
 
@@ -23,12 +23,12 @@ tags: ["momenthaibhaimoment"]
 </figure>
 
 <figure style="text-align: center;">
-  <img src="junglefort.jpg" alt="fort">
+  <img src="./junglefort.jpg" alt="fort">
   <figcaption>Village Cot</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="manali.jpg" alt="fall">
+  <img src="/manali.jpg" alt="fall">
   <figcaption>Waterfall</figcaption>
 </figure>
 
