@@ -1,5 +1,5 @@
 ---
-title: 🖥️🎮📱"
+title: 🖥️🎮📱
 description: "A nerd quietly enjoying the ambience of games and its soundtrack. WASD, SHIFT, SPACEBAR, F, R"
 publishDate: "13 September 2018"
 tags: ["ratings", "games"]
@@ -7,8 +7,7 @@ tags: ["ratings", "games"]
 
 <span style="font-size: 17px;">★★★★★</span> &nbsp; <span style="font-size: 12px;">
   <a href="#1">review</a> &nbsp; 2020.09.17 &nbsp; The Witcher 3 : Wild Hunt 🖥️</span>
-
-<span style="font-size: 17px;">★★★★</span> &nbsp; <span style="font-size: 12px;">
+<span style="font-size: 17px;">★★★★ </span> &nbsp; <span style="font-size: 12px;">
   <a href="#2">review</a> &nbsp; 2020.09.17 &nbsp; Gris 📱</span>
 
 
@@ -19,7 +18,6 @@ tags: ["ratings", "games"]
 ★★★
 ★★★★
 ★★★★★
-//
 
 
 
