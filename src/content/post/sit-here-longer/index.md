@@ -12,28 +12,8 @@ tags: ["momenthaibhaimoment"]
   </blockquote>
 </div>
 
-<figure style="text-align: center;">
-  ![kindle formatter](./IMG_2805.jpg)
-  <figcaption>Rain</figcaption>
-</figure>
-
-<figure style="text-align: center;">
-  <img src="" alt="home.jpg">
-  <figcaption>All Blue.</figcaption>
-</figure>
-
-<figure style="text-align: center;">
-  <img src="./junglefort.jpg" alt="fort">
-  <figcaption>Village Cot</figcaption>
-</figure>
-
-<figure style="text-align: center;">
-  <img src="/manali.jpg" alt="fall">
-  <figcaption>Waterfall</figcaption>
-</figure>
-
-<figure style="text-align: center;">
-  <img src="/content/post/sit-here-longer/nainital.jpg" alt="lake">
-  <figcaption>Nainital</figcaption>
-</figure>
-
+ ![All Blue.](./home.jpg) 
+ ![rain](./rain.jpg) 
+ ![resting on cot](./villagefort.jpg) 
+ ![On the Edge](./manali.jpg) 
+ ![GreenBelow](./nainital.jpg)
