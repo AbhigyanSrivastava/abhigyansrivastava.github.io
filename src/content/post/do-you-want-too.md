@@ -12,3 +12,22 @@ tags: ["momenthaibhaimoment"]
   </blockquote>
 </div>
 
+<style>
+    figure {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    figcaption {
+        margin-top: 8px; /* Adjust as needed */
+        font-style: italic;
+    }
+</style>
+
+<figure>
+    <img src="@/assets/AkiraSensei.png"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
