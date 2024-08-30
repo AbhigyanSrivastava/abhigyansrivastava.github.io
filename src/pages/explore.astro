@@ -1,0 +1,75 @@
+---
+import aboutImg from "@/assets/about-astro.png";
+import PageLayout from "@/layouts/Base.astro";
+import { Image } from "astro:assets";
+const meta = {
+  description: "Happily blabbering about myself",
+  title: "Explore",
+};
+---
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
+<PageLayout meta={meta}>
+  <div class="space-y-6">
+    <style>
+      a:link, a:visited {
+        text-decoration: none;
+      }
+
+      a:hover, a:active {
+        text-decoration: underline;
+      }
+      
+      .columns {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-top: 2rem;
+      }
+
+      .column {
+        flex: 1;
+        padding: 1rem;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+      }
+
+      .column h2 {
+        margin-top: 0;
+        font-size: 1.25rem;
+        color: #333;
+      }
+
+      .column p {
+        margin-bottom: 0;
+        font-size: 0.875rem;
+        color: #666;
+      }
+    </style>
+    <h1 class="title">Explore</h1>
+    <p>
+      Curious about me? I’m passionate about web development and always eager to learn new technologies. In my spare time, I enjoy hiking, reading, and exploring new places. Feel free to reach out if you want to connect or learn more!
+    </p>
+    <div class="columns">
+      <div class="column">
+        <h2>Ideas</h2>
+        <p>
+          Innovative, creative, solutions
+        </p>
+      </div>
+      <div class="column">
+        <h2>Now</h2>
+        <p>
+          Learning, coding, designing
+        </p>
+      </div>
+      <div class="column">
+        <h2>Links</h2>
+        <p>
+          Tools, resources, articles
+        </p>
+      </div>
+    </div>
+    <Image src={aboutImg} alt="A picture of me" />
+  </div>
+</PageLayout>
