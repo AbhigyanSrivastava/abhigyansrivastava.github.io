@@ -24,14 +24,16 @@ const meta = {
         justify-content: space-between;
         gap: 1rem;
         margin-top: 2rem;
+        flex-wrap: wrap; /* Allows columns to wrap to next line if they overflow */
       }
 
       .column {
-        flex: 1;
+        flex: 1 1 calc(33.333% - 1rem); /* Adjusts column width and gap */
         padding: 1rem;
         border: 1px solid #ddd;
         border-radius: 8px;
         background-color: #f9f9f9;
+        box-sizing: border-box;
       }
 
       .column h2 {
@@ -69,7 +71,49 @@ const meta = {
           Tools, resources, articles
         </p>
       </div>
+      <div class="column">
+        <h2>Books</h2>
+        <p>
+          Reading list, favorite books
+        </p>
+      </div>
+      <div class="column">
+        <h2>Games</h2>
+        <p>
+          Favorite games, current play
+        </p>
+      </div>
+      <div class="column">
+        <h2>Blogroll</h2>
+        <p>
+          Blogs I follow, interesting reads
+        </p>
+      </div>
+      <div class="column">
+        <h2>Uses</h2>
+        <p>
+          Tools, software, and services I use
+        </p>
+      </div>
+      <div class="column">
+        <h2>Numbers</h2>
+        <p>
+          Stats, metrics, interesting figures
+        </p>
+      </div>
+      <div class="column">
+        <h2>Consumption Log</h2>
+        <p>
+          What I consume, reviews
+        </p>
+      </div>
+      <div class="column">
+        <h2>88x31</h2>
+        <p>
+          88x31 pixel images or buttons
+        </p>
+      </div>
     </div>
-    <Image src={aboutImg} alt="A picture of me" />
+    <Image src={aboutImg} alt="A picture of the author hiking in nature" />
   </div>
 </PageLayout>
