@@ -16,61 +16,59 @@ tags: ["ratings", "games"]
 
 
 
-<span style="font-size: 12px;">★★★★★</span> &nbsp; <span style="font-size: 12px;">
-  <a href="#1">review</a> &nbsp; 2020.09.17 &nbsp; The Witcher 3 : Wild Hunt 🖥️</span>
-  <br>
 <span style="font-size: 12px;">★★★★  </span> &nbsp; <span style="font-size: 12px;">
-  <a href="#2">review</a> &nbsp; 2020.09.17 &nbsp; Gris 📱</span>
+  <a href="#3">review</a> &nbsp; 2020.09.17 &nbsp; Gris 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#1">review</a>   2024.09.04   Ghost Recon Wildlands 📱</span>
+  <a href="#4">review</a>   2024.09.04   Ghost Recon Wildlands 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#2">review</a>   2024.09.04   Resident Evil 4 📱</span>
+  <a href="#5">review</a>   2024.09.04   Resident Evil 4 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#3">review</a>   2024.09.04   Resident Evil 7 📱</span>
+  <a href="#6">review</a>   2024.09.04   Resident Evil 7 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#4">review</a>   2024.09.04   Resident Evil 5 📱</span>
+  <a href="#7">review</a>   2024.09.04   Resident Evil 5 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#5">review</a>   2024.09.04   Resident Evil 2 Remake 📱</span>
+  <a href="#8">review</a>   2024.09.04   Resident Evil 2 Remake 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#6">review</a>   2024.09.04   Bioshock 📱</span>
+  <a href="#9">review</a>   2024.09.04   Bioshock 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#7">review</a>   2024.09.04   GTA 3, 5, Vice City 📱</span>
+  <a href="#10">review</a>   2024.09.04   GTA 3, 5, Vice City 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#8">review</a>   2024.09.04   Counter-Strike 📱</span>
+  <a href="#11">review</a>   2024.09.04   Counter-Strike 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#9">review</a>   2024.09.04   Batman Arkham 📱</span>
+  <a href="#12">review</a>   2024.09.04   Batman Arkham 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#10">review</a>   2024.09.04   Uncharted 📱</span>
+  <a href="#13">review</a>   2024.09.04   Uncharted 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#11">review</a>   2024.09.04   Skyrim 📱</span>
+  <a href="#14">review</a>   2024.09.04   Skyrim 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#12">review</a>   2024.09.04   God of War 📱</span>
+  <a href="#15">review</a>   2024.09.04   God of War 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#13">review</a>   2024.09.04   AC Odyssey 📱</span>
+  <a href="#16">review</a>   2024.09.04   AC Odyssey 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#14">review</a>   2024.09.04   AC Black Flag 📱</span>
+  <a href="#17">review</a>   2024.09.04   AC Black Flag 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#15">review</a>   2024.09.04   AC Brotherhood 📱</span>
+  <a href="#18">review</a>   2024.09.04   AC Brotherhood 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#16">review</a>   2024.09.04   Forza Horizon 4 📱</span>
+  <a href="#19">review</a>   2024.09.04   Forza Horizon 4 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#17">review</a>   2024.09.04   Dishonored 📱</span>
+  <a href="#20">review</a>   2024.09.04   Dishonored 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#18">review</a>   2024.09.04   CoD Modern Warfare 4 📱</span>
+  <a href="#21">review</a>   2024.09.04   CoD Modern Warfare 4 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#19">review</a>   2024.09.04   CoD Modern Warfare 2 📱</span>
+  <a href="#22">review</a>   2024.09.04   CoD Modern Warfare 2 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#20">review</a>   2024.09.04   Sniper Elite 📱</span>
+  <a href="#23">review</a>   2024.09.04   Sniper Elite 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#21">review</a>   2024.09.04   Rise of the Tomb Raider 📱</span>
+  <a href="#24">review</a>   2024.09.04   Rise of the Tomb Raider 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#22">review</a>   2024.09.04   Apex Legends 📱</span>
+  <a href="#25">review</a>   2024.09.04   Apex Legends 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#23">review</a>   2024.09.04   Tetris 📱</span>
+  <a href="#26">review</a>   2024.09.04   Tetris 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#24">review</a>   2024.09.04   Arkham City 📱</span>
+  <a href="#27">review</a>   2024.09.04   Arkham City 📱</span><br>
 <span style="font-size: 12px;">★★★★  </span>   <span style="font-size: 12px;">
-  <a href="#25">review</a>   2024.09.04   Tom Clancy 📱</span>
+  <a href="#28">review</a>   2024.09.04   Tom Clancy 📱</span><br>
+
 
 
 
