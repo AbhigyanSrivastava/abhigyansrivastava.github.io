@@ -1,24 +1,36 @@
 ---
-title: "I want to sit here longer."
-description: "Everyone has that moment or place where they want to get stuck. I too have a few."
-publishDate: "05 May 2024"
-tags: ["momenthaibhaimoment"]
+import PostPreview from "@/components/blog/PostPreview.astro";
+import PageLayout from "@/layouts/Base.astro";
+import { getAllPosts, sortMDByDate } from "@/utils";
+const allPosts = await getAllPosts();
+const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
+
+const cactusTech: { desc: string; href: string; title: string }[] = [];
 ---
 <script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
-<div style="text-align: center;">
-  <blockquote>
-    But I have promises to keep,<br>
-    And miles to go before I sleep.<br>
-    Still I want to sit here longer.
-  </blockquote>
-</div>
+<PageLayout meta={{ title: "Home" }}>
+	<section>
 
- ![All Blue.](./home.jpg) 
- <br>
- ![rain](./rain.jpg) 
- <br>
- ![resting on cot](./junglefort.jpg) 
- <br>
- ![On the Edge](./manali.jpg)
- <br>
- ![GreenBelow](./nainital.jpg)
+		<h1 class="title mb-7" style="font-size: 4rem; line-height: 1.2;">
+    tl;dr<br>
+    typical<br>
+    college<br>
+    degenerate
+    </h1>
+
+		<p class="mb-5">
+			I am Abhigyan and this website is my mind rambling in kilobytes. Expect half-baked thoughts, doodles, full-fledged posts or anything in between.
+      <br>Feel free to explore.🔍
+      <br>
+      Check out this [special post](src/content/post/i-have-read-these.md).
+
+      <br>
+      <img src={rocket.src} width={rocket.width} height={rocket.height} alt="A rocketship in space." />
+		</p>
+	</section>
+</PageLayout>
+
+
+
+
+
