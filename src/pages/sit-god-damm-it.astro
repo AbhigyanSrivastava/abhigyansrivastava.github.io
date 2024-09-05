@@ -1,0 +1,32 @@
+---
+import PostPreview from "@/components/blog/PostPreview.astro";
+import PageLayout from "@/layouts/Base.astro";
+import { getAllPosts, sortMDByDate } from "@/utils";
+const MAX_POSTS = 10;
+const allPosts = await getAllPosts();
+const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
+
+const cactusTech: { desc: string; href: string; title: string }[] = [];
+---
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
+<PageLayout meta={{ title: "Home" }}>
+	<section>
+
+		<h1 class="title mb-7" style="font-size: 4rem; line-height: 1.2;">
+    tl;dr<br>
+    typical<br>
+    college<br>
+    degenerate
+    </h1>
+
+		<p class="mb-5">
+			I am Abhigyan and this website is my mind rambling in kilobytes. Expect half-baked thoughts, doodles, full-fledged posts or anything in between.
+      <br>Feel free to explore.🔍
+      <br>
+      Check out this [special post](src/content/post/i-have-read-these.md).
+
+      <br>
+      <img src={rocket.src} width={rocket.width} height={rocket.height} alt="A rocketship in space." />
+		</p>
+	</section>
+</PageLayout>
