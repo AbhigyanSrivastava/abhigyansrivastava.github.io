@@ -2,6 +2,7 @@
 import aboutImg from "@/assets/about-astro.png";
 import PageLayout from "@/layouts/Base.astro";
 import { Image } from "astro:assets";
+import rocket from '../assets/IMG_7567.jpeg';
 const meta = {
 	description: "happily blabbering about myself",
 	title: "I want to sit here longer.",
@@ -35,6 +36,8 @@ a:active {
     Still I want to sit here longer.
   </blockquote>
 </div>
+
+<img src={rocket.src} alt="the breeze." style="padding: 1px; border: 2px solid black;" />
 
 <img src="./IMG_7567.jpeg" alt="All Blue" />
  
