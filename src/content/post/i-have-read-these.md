@@ -38,12 +38,6 @@ tags: ["ratings", "books"]
 
 
 
-<a id="00"></a>
-<p>★★★★★ : Masterpiece<br></p>
-<p>★★★★ : A must read.<br></p>
-<p>★★★ : I mean it's alright.<br></p>
-<p>★★ : Nothing new.<br></p>
-<p>★ : Waste of time.<br></p>
 
 
 
@@ -52,5 +46,13 @@ tags: ["ratings", "books"]
 <h2>The Prophet</h2>
 <p>The one which explains everything valueable in life.</p>
 
+
+
+<a id="00"></a>
+<p>★★★★★ is Masterpiece</p>
+<p>★★★★ is A must read.</p>
+<p>★★★ : I mean it's alright.</p>
+<p>★★ is Nothing new.</p>
+<p>★ is A waste of time.</p>
 
 
