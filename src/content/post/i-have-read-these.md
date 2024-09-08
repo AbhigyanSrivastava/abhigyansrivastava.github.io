@@ -6,7 +6,7 @@ tags: ["ratings", "books"]
 ---
 
 
-<a href="#00">My Rating System here.</a>
+<a href="#00">My Rating System.</a>
 
 
 <span style="font-size: 17px;">★★★★</span> &nbsp; <span style="font-size: 12px;">
@@ -50,7 +50,7 @@ tags: ["ratings", "books"]
 
 <a id="00"></a>
 <p>★★★★★ is Masterpiece</p>
-<p>★★★★ is A must read.</p>
+★★★★ is A must read.
 <p>★★★ : I mean it's alright.</p>
 <p>★★ is Nothing new.</p>
 <p>★ is A waste of time.</p>
