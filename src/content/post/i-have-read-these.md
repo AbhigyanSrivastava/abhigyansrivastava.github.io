@@ -49,10 +49,11 @@ tags: ["ratings", "books"]
 
 
 <a id="00"></a>
-<p>★★★★★ is Masterpiece</p>
-★★★★ is A must read.
-<p>★★★ : I mean it's alright.</p>
-<p>★★ is Nothing new.</p>
-<p>★ is A waste of time.</p>
+★★★★★ is Masterpiece<br>
+★★★★ is A must read.<br>
+★★★ is I mean it's alright.<br>
+★★ is Nothing new.<br>
+★ is A waste of time.
+
 
 
