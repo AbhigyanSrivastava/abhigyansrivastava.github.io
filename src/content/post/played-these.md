@@ -1,5 +1,5 @@
 ---
-title: 🖥️🎮📱
+title: 🖥️ 🎮 📱
 description: "A nerd quietly enjoying the ambience of games and its soundtrack. WASD, SHIFT, SPACEBAR, F, R"
 publishDate: "13 September 2018"
 tags: ["ratings", "games"]
@@ -41,8 +41,8 @@ tags: ["ratings", "games"]
 
 
 ## What does these stars mean?
-★★★★★ : Would definitely play again.
-★★★★ : A marvelous adventure.
-★★★ : Enjoyed it.
-★★ : No.
+★★★★★ : Would definitely play again.<br>
+★★★★ : A marvelous adventure.<br>
+★★★ : Enjoyed it.<br>
+★★ : No.<br>
 ★ : Uninstalled after minutes.
