@@ -4,17 +4,7 @@ description: "A nerd quietly enjoying the ambience of games and its soundtrack. 
 publishDate: "13 September 2018"
 tags: ["ratings", "games"]
 ---
-
-
-// ★
-★★
-★★★
-★★★★
-★★★★★
-
-
-
-
+<a href="#00">What does these stars mean?</a>
 
 <span style="font-size: 12px;">★★★★  </span> &nbsp; <span style="font-size: 12px;">
   <a href="#3">review</a> &nbsp; 2020.09.17 &nbsp; Gris 📱</span><br>
@@ -159,3 +149,10 @@ tags: ["ratings", "games"]
 <h2>Tom Clancy</h2>
 <p>Engage in tactical military simulations.</p>
 
+
+<a id="00"></a>
+<p>★★★★★ : Masterpiece<br></p>
+<p>★★★★ : A must read.<br></p>
+<p>★★★ : I mean it's alright.<br></p>
+<p>★★ : Nothing new.<br></p>
+<p>★ : Waste of time.<br></p>
