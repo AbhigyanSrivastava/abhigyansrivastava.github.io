@@ -6,7 +6,6 @@ updatedDate: "01 July 2024"
 tags: ["shows", "movies","audiobook","timeline"]
 ---
 <script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
-**Summary**
 
 ## January 2024
 <li>12th January: <a href="https://www.imdb.com/title/tt17220216/">Monarch</a> 📺</li>
@@ -44,3 +43,13 @@ tags: ["shows", "movies","audiobook","timeline"]
 ## July 2024
 <li>1st July: Wind Breaker Season 1 📺</li>
 <li>3rd July: Demon Slayer Season 4 📺</li>
+<li>19th July: <a href="https://www.imdb.com/title/tt6587046/?ref_=ext_shr_lnk">The Boy and the Heron</a> 📺</li>
+
+## August 2024
+
+<li>17th August: <a href="https://www.imdb.com/title/tt7510222">Despicable Me 4</a> 📺</li>
+<li>20th August: <a href="https://www.imdb.com/title/tt27995594/">Munjya</a> 📺</li>
+<li>24th August: <a href="https://www.imdb.com/title/tt12735488/">Kalki 2898 AD</a> 📺</li>
+<li>25th August: <a href="https://www.imdb.com/title/tt22022452">Inside Out 2</a> 📺</li>
+
+
