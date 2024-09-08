@@ -46,10 +46,10 @@ tags: ["ratings", "books"]
 <h2>The Prophet</h2>
 <p>The one which explains everything valueable in life.</p>
 
-
+<br>
 
 <a id="00"></a>
-★★★★★ is Masterpiece<br>
+★★★★★ is A Masterpiece<br>
 ★★★★ is A must read.<br>
 ★★★ is I mean it's alright.<br>
 ★★ is Nothing new.<br>
