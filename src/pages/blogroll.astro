@@ -1,0 +1,44 @@
+---
+import aboutImg from "@/assets/about-astro.png";
+import PageLayout from "@/layouts/Base.astro";
+import { Image } from "astro:assets";
+const meta = {
+	description: "people i find interesting.",
+	title: "Blogroll",
+};
+---
+<script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
+<PageLayout meta={meta}>
+	<div class="space-y-6">
+<style>
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+</style>
+		<h1 class="title">Blogroll</h1>
+    <br>
+    A digital phonebook of sorts. <br>
+<br>
+- [Herman Martinus](https://herman.bearblog.dev)
+- [Shawn Wang](https://www.swyx.io)
+- [Kia Ora](https://flamedfury.com)
+- [Uses This](https://usesthis.com/interviews/)
+- [Annie Green](https://weblog.anniegreens.lol/home)
+- [Anna Havron](https://analogoffice.net/)
+- [Sophie](https://localghost.dev/)
+
+		
+	</div>
+</PageLayout>
