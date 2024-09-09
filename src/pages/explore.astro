@@ -1,8 +1,6 @@
 ---
 import aboutImg from "@/assets/about-astro.png";
 import PageLayout from "@/layouts/Base.astro";
-import { Image } from "astro:assets";
-
 const meta = {
   description: "Happily blabbering about myself",
   title: "Explore",
@@ -24,7 +22,7 @@ const meta = {
 
       .grid-container {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* Creates three equal-width columns */
+        grid-template-columns: repeat(3, 1fr); /* Always three columns */
         gap: 1rem; /* Space between grid items */
         margin-top: 2rem;
       }
@@ -50,8 +48,8 @@ const meta = {
       }
     </style>
     <h1 class="title">Explore</h1>
-    <p>
-      Delightful nonsense and playful antics.
+    <p>Delightful nonsense and playful antics.</p>
+    <div class="grid-container">
       <div class="grid-item">
         <h2><a href="/now">Now</a></h2>
         <p>What's up?</p>
