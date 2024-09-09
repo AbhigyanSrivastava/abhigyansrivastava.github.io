@@ -2,12 +2,15 @@
 import aboutImg from "@/assets/about-astro.png";
 import PageLayout from "@/layouts/Base.astro";
 import { Image } from "astro:assets";
+
 const meta = {
   description: "Happily blabbering about myself",
   title: "Explore",
 };
 ---
+
 <script defer src="https://cloud.umami.is/script.js" data-website-id="d8126afa-dc93-427c-a836-8e92a8586a7d"></script>
+
 <PageLayout meta={meta}>
   <div class="space-y-6">
     <style>
@@ -18,17 +21,15 @@ const meta = {
       a:hover, a:active {
         text-decoration: underline;
       }
-      
-      .columns {
-        display: flex;
-        justify-content: space-between;
-        gap: 1rem;
+
+      .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Creates three equal-width columns */
+        gap: 1rem; /* Space between grid items */
         margin-top: 2rem;
-        flex-wrap: wrap; /* Allows columns to wrap to next line if they overflow */
       }
 
-      .column {
-        flex: 1 1 calc(33.333% - 1rem); /* Adjusts column width and gap */
+      .grid-item {
         padding: 1rem;
         border: 1px solid #ddd;
         border-radius: 8px;
@@ -36,13 +37,13 @@ const meta = {
         box-sizing: border-box;
       }
 
-      .column h2 {
+      .grid-item h2 {
         margin-top: 0;
         font-size: 1.25rem;
         color: #333;
       }
 
-      .column p {
+      .grid-item p {
         margin-bottom: 0;
         font-size: 0.875rem;
         color: #666;
@@ -52,59 +53,42 @@ const meta = {
     <p>
       Curious about me? I’m passionate about web development and always eager to learn new technologies. In my spare time, I enjoy hiking, reading, and exploring new places. Feel free to reach out if you want to connect or learn more!
     </p>
-      <div class="column">
+    <div class="grid-container">
+      <div class="grid-item">
         <h2><a href="/now">Now</a></h2>
-        <p>
-          What's up?
-        </p>
+        <p>What's up?</p>
       </div>
-      <div class="column">
+      <div class="grid-item">
         <h2><a href="/blogroll">Blogroll</a></h2>
-        <p>
-          Blogs I follow.
-        </p>
+        <p>Blogs I follow.</p>
       </div>
-      <div class="column">
+      <div class="grid-item">
         <h2><a href="https://aisahihu.me/posts/media-log">Consumption Log</a></h2>
-        <p>
-        Monthly records.
-        </p>
+        <p>Monthly records.</p>
       </div>
-      <div class="column">
-          <h2><a href="https://aisahihu.me/posts/i-have-read-these">Books</a></h2>
-        <p>
-          Read log.
-        </p>
+      <div class="grid-item">
+        <h2><a href="https://aisahihu.me/posts/i-have-read-these">Books</a></h2>
+        <p>Read log.</p>
       </div>
-      <div class="column">
-          <h2><a href="https://aisahihu.me/posts/played-these">Games</a></h2>
-        <p>
-          A long list of fun.
-        </p>
+      <div class="grid-item">
+        <h2><a href="https://aisahihu.me/posts/played-these">Games</a></h2>
+        <p>A long list of fun.</p>
       </div>
-       <div class="column">
+      <div class="grid-item">
         <h2>Links</h2>
-        <p>
-          you should check out too.
-        </p>
+        <p>You should check out too.</p>
       </div>
-      <div class="column">
+      <div class="grid-item">
         <h2><a href="https://aisahihu.me/posts/default-apps">Uses</a></h2>
-        <p>
-          Tools, software, and services I use.
-        </p>
+        <p>Tools, software, and services I use.</p>
       </div>
-      <div class="column">
+      <div class="grid-item">
         <h2>Numbers</h2>
-        <p>
-          Stats,interesting figures.
-        </p>
+        <p>Stats, interesting figures.</p>
       </div>
-      <div class="column">
+      <div class="grid-item">
         <h2><a href="/sit">Sit here.</a></h2>
-        <p>
-          a moment of peace.
-        </p>
+        <p>A moment of peace.</p>
       </div>
     </div>
   </div>
