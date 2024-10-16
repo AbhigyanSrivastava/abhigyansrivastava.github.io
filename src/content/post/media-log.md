@@ -46,10 +46,14 @@ tags: ["shows", "movies","audiobook","timeline"]
 <li>19th July: <a href="https://www.imdb.com/title/tt6587046/?ref_=ext_shr_lnk">The Boy and the Heron</a> 📺</li>
 
 ## August 2024
-
 <li>17th August: <a href="https://www.imdb.com/title/tt7510222">Despicable Me 4</a> 📺</li>
 <li>20th August: <a href="https://www.imdb.com/title/tt27995594/">Munjya</a> 📺</li>
 <li>24th August: <a href="https://www.imdb.com/title/tt12735488/">Kalki 2898 AD</a> 📺</li>
 <li>25th August: <a href="https://www.imdb.com/title/tt22022452">Inside Out 2</a> 📺</li>
+<li>30th August: <a href="https://www.imdb.com/title/tt27510174/">Stree 2</a> 📺</li>
 
+## September 2024
+<li>2nd September: <a href="https://www.imdb.com/title/tt2356777/">True Detective Season 1</a> 📺</li>
+<li>10th September: <a href="https://www.imdb.com/title/tt6263850/">Deadpool And Wolverine</a> 📺</li>
+<li>25th September: Haikyu Season 2 📺</li>
 
