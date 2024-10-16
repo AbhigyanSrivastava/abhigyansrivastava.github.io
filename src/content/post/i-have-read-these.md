@@ -38,6 +38,14 @@ tags: ["ratings", "books"]
 <span style="font-size: 12px; display: inline-block; width: 200px;">Greenlights</span>
 
 
+<span style="font-size: 12px; display: inline-block; width: 50px;">★★★★</span>
+<span style="font-size: 12px; display: inline-block; width: 70px;">2023.09.17</span>
+<span style="font-size: 12px; display: inline-block; width: 60px;"><a href="#1">review</a></span>
+<span style="font-size: 12px; display: inline-block; width: 150px;">The Prophet</span>
+<span style="font-size: 12px; display: inline-block; width: 50px;">★★★</span>
+<span style="font-size: 12px; display: inline-block; width: 70px;">2024.09.29</span>
+<span style="font-size: 12px; display: inline-block; width: 60px;"><a href="#2">review</a></span>
+<span style="font-size: 12px; display: inline-block; width: 150px;">Greenlights</span>
 
 
 
