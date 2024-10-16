@@ -10,7 +10,7 @@ tags: ["ratings", "books"]
 
 
 <span style="font-size: 12px;">★★★★</span> &nbsp; <span style="font-size: 12px;">
-  <a href="#1">review</a> &nbsp; 2023.09.17 &nbsp; The Prophet </span>
+  <a href="#1">review</a> &nbsp; 2023.09.17 &nbsp; The Prophet </span> <br>
 <span style="font-size: 12px;">★★★</span> &nbsp; <span style="font-size: 12px;">
   <a href="#2">review</a> &nbsp; 2024.09.29 &nbsp; Greenlights </span>
 
