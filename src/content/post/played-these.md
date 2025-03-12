@@ -4,88 +4,40 @@ description: "A nerd quietly enjoying the ambience of games and its soundtrack. 
 publishDate: "13 September 2018"
 tags: ["ratings", "games"]
 ---
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2020.09.17</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Gris 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Ghost Recon Wildlands 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Resident Evil 4 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Resident Evil 7 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Resident Evil 5 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Resident Evil 2 Remake 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Bioshock 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">GTA 5 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Counter-Strike 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Batman Arkham 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Uncharted 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Skyrim 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">God of War 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">AC Odyssey 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">AC Black Flag 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">AC Brotherhood 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Forza Horizon 4 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Dishonored 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">CoD Modern Warfare 4 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">CoD Modern Warfare 2 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Sniper Elite 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Rise of the Tomb Raider 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Apex Legends 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Tetris 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Arkham City 💻</span><br>
-<span style="font-size: 12px; display: inline-block; width: 60px;">★★★</span>
-<span style="font-size: 12px; display: inline-block; width: 80px;">2024.09.04</span>
-<span style="font-size: 12px; display: inline-block; width: 200px;">Tom Clancy 💻</span>
+| Rating | Date | Game |
+|--------|------------|---------------------------|
+| ★★★★  | 2020.09.17 | Gris 💻 |
+| ★★★★★ | 2024.09.04 | Ghost Recon Wildlands 💻 |
+| ★★★★  | 2024.09.04 | Resident Evil 4 💻 |
+| ★★★   | 2024.09.04 | Resident Evil 7 💻 |
+| ★★★★  | 2024.09.04 | Resident Evil 5 💻 |
+| ★★★   | 2024.09.04 | Resident Evil 2 Remake 💻 |
+| ★★★★  | 2024.09.04 | Bioshock 💻 |
+| ★★★★  | 2024.09.04 | GTA 5 💻 |
+| ★★★★  | 2024.09.04 | Counter-Strike 💻 |
+| ★★★★  | 2024.09.04 | Batman Arkham 💻 |
+| ★★★★  | 2024.09.04 | Uncharted 💻 |
+| ★★★★  | 2024.09.04 | Skyrim 💻 |
+| ★★★★★ | 2024.09.04 | God of War 💻 |
+| ★★★★  | 2024.09.04 | AC Odyssey 💻 |
+| ★★★   | 2024.09.04 | AC Black Flag 💻 |
+| ★★★   | 2024.09.04 | AC Brotherhood 💻 |
+| ★★★★  | 2024.09.04 | Forza Horizon 4 💻 |
+| ★★★   | 2024.09.04 | Dishonored 💻 |
+| ★★★★  | 2024.09.04 | CoD Modern Warfare 4 💻 |
+| ★★★★  | 2024.09.04 | CoD Modern Warfare 2 💻 |
+| ★★★   | 2024.09.04 | Sniper Elite 💻 |
+| ★★★   | 2024.09.04 | Rise of the Tomb Raider 💻 |
+| ★★★   | 2024.09.04 | Apex Legends 💻 |
+| ★★★★  | 2024.09.04 | Tetris 💻 |
+| ★★★★  | 2024.09.04 | Arkham City 💻 |
+| ★★★   | 2024.09.04 | Tom Clancy 💻 |
 
-## What does these stars mean?
-★★★★★ : Would definitely play again.<br>
-★★★★ : A marvelous adventure.<br>
-★★★ : Enjoyed it.<br>
-★★ : No.<br>
-★ : Uninstalled after minutes.
+---
+
+## What do the stars mean?
+- **★★★★★** : Would definitely play again.  
+- **★★★★** : A marvelous adventure.  
+- **★★★** : Enjoyed it.  
+- **★★** : No.  
+- **★** : Uninstalled after minutes.  
